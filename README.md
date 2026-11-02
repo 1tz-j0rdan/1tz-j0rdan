@@ -4,15 +4,17 @@
 
 ### Software Development • Cloud & AI • Cybersecurity
 
-Computer Science | Engineering Leadership | Automation
+Computer Scientist | Engineering Leadership | Automation
 
 [![GitHub](https://img.shields.io/badge/GitHub-1tz--j0rdan-181717?logo=github&logoColor=white)](https://github.com/1tz-j0rdan)
+
+**[📄 Download My Résumé (PDF)](Jordan_McGee_Resume.pdf)**
 
 </div>
 
 ## About Me
 
-I'm a Computer Scientist and hands-on engineering leader with experience spanning software development, electrical systems, technical troubleshooting, and project coordination. I'm building a public portfolio of tested, documented software projects with an emphasis on practical problem-solving, automation, cloud technologies, and cybersecurity.
+I'm a Computer Scientist pursuing a master’s degree in Computer Science and a hands-on engineering leader with experience spanning software development, electrical systems, technical troubleshooting, and project coordination. I'm building a public portfolio of tested, documented software projects with an emphasis on practical problem-solving, automation, cloud technologies, and cybersecurity.
 
 My background includes leading a seven-person electrical division within Clemson Formula Racing and contributing to electrical and control systems work during an internship with Fluor Corporation.
 
@@ -66,6 +68,7 @@ I'm developing a progressive software-engineering portfolio with an emphasis on 
 
 ## Education
 
+**Master’s in Computer Science** — In progress  
 **Computer Science** — Clemson University
 
 ## Current Focus
@@ -78,6 +81,7 @@ I'm developing a progressive software-engineering portfolio with an emphasis on 
 ## Connect
 
 - **GitHub:** [github.com/1tz-j0rdan](https://github.com/1tz-j0rdan)
+- **Résumé:** [Download PDF](Jordan_McGee_Resume.pdf)
 
 ---
 
