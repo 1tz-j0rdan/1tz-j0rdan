@@ -12,7 +12,7 @@ Computer Science | Engineering Leadership | Automation
 
 ## About Me
 
-I'm a Computer Science student and hands-on engineering leader with experience spanning software development, electrical systems, technical troubleshooting, and project coordination. I'm building a public portfolio of tested, documented software projects with an emphasis on practical problem-solving, automation, cloud technologies, and cybersecurity.
+I'm a Computer Scientist and hands-on engineering leader with experience spanning software development, electrical systems, technical troubleshooting, and project coordination. I'm building a public portfolio of tested, documented software projects with an emphasis on practical problem-solving, automation, cloud technologies, and cybersecurity.
 
 My background includes leading a seven-person electrical division within Clemson Formula Racing and contributing to electrical and control systems work during an internship with Fluor Corporation.
 
